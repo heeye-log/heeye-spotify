@@ -15,6 +15,7 @@
 .button-icon{
   text-align: auto;
   overflow: hidden;
+}
 ```
 - 수정 후 CSS 
 ```
