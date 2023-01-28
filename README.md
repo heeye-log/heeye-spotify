@@ -5,6 +5,7 @@
 ### Demo
 - 실제 사이트 👉🏻 [Spotify_ko](https://www.spotify.com/kr-ko/)<div>
 - 만들어본 Demo 👉🏻 [Spotify](https://heeye-log.github.io/spotify-website/)</div>
+- Github 통해서 배포
 
 ### Troubleshooting
 - 메인 화면 중 안드로이드/ios 이미지 높이가 CSS 속성값을 넣어도 같은 높이로 위치가 되지 않고 이미지 하나가 꼭 위로 튀어 올라가는 문제가 있었다.
