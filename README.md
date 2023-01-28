@@ -9,8 +9,24 @@
 
 ### Troubleshooting
 - 메인 화면 중 안드로이드/ios 이미지 높이 CSS 속성값을 넣어도 같은 높이로 위치가 되지 않았다. 
-- 진행 전 코드 
- <img align="absmiddle" src="…">
+- 수정 전 CSS
+
+
+- 수정한 CSS 
+.button-style{
+  padding: 5px 20px;
+  border-radius: 500px;
+  border: none;
+  height: auto;
+  display: block;
+  float: auto;
+}
+
+.button-icon{
+  text-align: auto;
+  overflow: hidden;
+  vertical-align: middle
+}
 
 ### Retrospect
 - 
