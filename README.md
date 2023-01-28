@@ -22,7 +22,7 @@
 .button-icon{
   text-align: auto;
   overflow: hidden;
-  vertical-align: middle # 수정
+  vertical-align: middle; # 수정
 }
 ```
 ---
