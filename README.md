@@ -5,7 +5,7 @@
 
 ### Demo
 - 실제 사이트 👉🏻 [Spotify_ko](https://www.spotify.com/kr-ko/)<div> 2023.01.31 기준 KR 사이트 포맷 변경
-- 만들어본 Demo 👉🏻 [Spotify](https://heeye-log.github.io/spotify-website/)</div>
+- 만들어본 Demo 👉🏻 [Spotify](https://heeye-log.github.io/spotify-website-clone/)</div>
 - 배포: Github.io
 
 
