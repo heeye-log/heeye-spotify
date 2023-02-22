@@ -1,4 +1,4 @@
-# spotify-website
+# Spotify-website
 
 ### Introduction
 - 스포티파이(KR) 클론 메인 사이트 만들면서 학습하기
